@@ -42,4 +42,4 @@ registration please hand over within 14 days:
 Please note: Due to limited capabilities, your attendance is pending until final acceptance of your poster.
 Afterwards you will be charged to pay the registration fee.
 
-See workshop announcement <a href="http://destair.bioinf.uni-leipzig.de/event/de-stair-1-workshop/" target="_blank">here</a>.
+See workshop announcement <a href="http://destair.bioinf.uni-leipzig.de/event/de-stair-1-workshop/" target="_blank" rel="noopener">here</a>.
