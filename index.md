@@ -1,5 +1,6 @@
 ---
 layout: home
+global_news_events: global
 ---
 
 <div class="home">
@@ -7,4 +8,3 @@ layout: home
   {% include home_news_events.html %}
   {% include home_done.html %}
 </div>
-

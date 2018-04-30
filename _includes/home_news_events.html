@@ -1,3 +1,4 @@
+{{ page.global_news_events }}
 <div class="row">
   <div class='col-sm-6'>
     <h2><a href="news">News</a></h2>
@@ -7,11 +8,18 @@
         {% for post in events limit:5 %}
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <a class="list-group-item" href="{{ post.url | absolute_url }}">
+            <div class="row">
+              <div class="col-xs-11">
             <p class="list-group-item-text">{{ post.date | date: date_format }}</p>
             <h4 class="list-group-item-heading">
               {% include article_icons.html post=post %}
               {{ post.title | escape }}
             </h4>
+              </div>
+              <div class="col-xs-1">
+                  {% include flag_strip.html site=post.site %}
+              </div>
+            </div>
           </a>
         {% endfor %}
       </div>
