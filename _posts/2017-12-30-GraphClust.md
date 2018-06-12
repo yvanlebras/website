@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [tools]
 title: GraphClust - Scalable clustering and annotation of structured and functional RNAs in an accessible and interactive fashion
 ---

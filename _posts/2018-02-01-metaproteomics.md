@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [paper]
 title: Disseminating Metaproteomic Informatics Capabilities and Knowledge Using the Galaxy-P Framework
 ---

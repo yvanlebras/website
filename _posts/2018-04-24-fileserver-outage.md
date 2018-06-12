@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [devops, downtime]
 title: Fileserver Outage affecting Jobs
 location: Freiburg, Germany

@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 title: In memory of Christophe Caron
 location: Freiburg, Germany
 ---

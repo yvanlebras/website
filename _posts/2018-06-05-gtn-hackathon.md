@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [training]
 title: Workshop for Galaxy training material and skills improvement
 location: Norwich, UK

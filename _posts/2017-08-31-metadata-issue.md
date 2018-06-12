@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [devops]
 title: "Fixed: Galaxy Metadata Issue"
 ---

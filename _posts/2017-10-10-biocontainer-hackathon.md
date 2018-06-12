@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [training, hackathon]
 title: BioContainer Hackathon
 location: Paris, France

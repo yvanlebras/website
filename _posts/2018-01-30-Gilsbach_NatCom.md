@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [paper]
 title: Distinct epigenetic programs regulate cardiac myocyte development and disease in the human heart in vivo
 location: Freiburg, Germany

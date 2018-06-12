@@ -2,7 +2,8 @@
 title: "Galaxy Africa"
 tags: [training,talk]
 location: Cape Town, South Africa
-site: freiburg
+site:
+ - freiburg
 ---
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> Africa is starting!! <a href="https://twitter.com/hashtag/GalaxyAfrica?src=hash&amp;ref_src=twsrc%5Etfw">#GalaxyAfrica</a> <a href="https://t.co/6NOy10ITDk">pic.twitter.com/6NOy10ITDk</a></p>&mdash; Bérénice Batut (@bebatut) <a href="https://twitter.com/bebatut/status/981073917187100672?ref_src=twsrc%5Etfw">3 avril 2018</a></blockquote>

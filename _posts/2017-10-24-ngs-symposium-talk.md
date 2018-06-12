@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [talk]
 title: Talk @ 5th early-stage researchers Next-Generation Sequencing Symposium
 supporters:

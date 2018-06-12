@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [training]
 title: End of our 5-days HTS Galaxy workshop in Freiburg, Germany
 location: Freiburg, Germany

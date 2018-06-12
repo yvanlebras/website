@@ -1,5 +1,7 @@
 ---
-site: freiburg
+site:
+ - freiburg
+ - erasmusmc
 tags: [tools]
 title: "Nanopolish tools for signal-level analysis of Oxford Nanopore sequencing data is now available in Galaxy"
 ---

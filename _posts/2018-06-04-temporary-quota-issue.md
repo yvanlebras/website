@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [devops, downtime]
 title: Temporary Quota Issue
 location: Freiburg, Germany

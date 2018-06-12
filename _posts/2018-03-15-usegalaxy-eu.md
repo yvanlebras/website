@@ -2,7 +2,8 @@
 tags: [devops]
 title: "Freiburg Galaxy becomes useGalaxy.eu"
 location: Freiburg, Germany
-site: freiburg
+site:
+ - freiburg
 supporters:
  - denbi
  - elixir

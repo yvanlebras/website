@@ -1,7 +1,8 @@
 ---
 title: "Galaxy User Conference: a successful first day"
 location: Freiburg, Germany
-site: freiburg
+site:
+ - freiburg
 supporters:
  - denbi
  - elixir

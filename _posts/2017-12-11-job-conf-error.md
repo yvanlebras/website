@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [devops, downtime]
 title: "Post Mortem: 2h Tool Execution Outage"
 ---

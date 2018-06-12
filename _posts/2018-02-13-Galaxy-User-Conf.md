@@ -1,7 +1,8 @@
 ---
 title: Program for the Galaxy User Conference
 location: Freiburg, Germany
-site: freiburg
+site:
+ - freiburg
 supporters:
  - denbi
  - elixir

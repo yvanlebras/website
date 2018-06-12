@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 title: Our paper about the Galaxy Training material and community as a preprint on bioRXiv
 tags: [paper]
 supporters:

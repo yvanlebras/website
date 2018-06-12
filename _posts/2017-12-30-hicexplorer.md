@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [tools]
 title: HiCExplorer - a suite of tools for reproducible Hi-C data analysis, quality control and visualization 
 ---

@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [paper]
 title: "The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update"
 ---

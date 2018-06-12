@@ -1,7 +1,8 @@
 ---
 title: ELIXIR Galaxy kick-off meeting 14.03.2018 in Freiburg
 location: Freiburg, Germany
-site: freiburg
+site:
+ - freiburg
 supporters:
  - elixir
 ---

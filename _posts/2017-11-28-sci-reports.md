@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [paper]
 title: Sex differences in peripheral not central immune responses to paininducing injury
 location: London, Great Britain

@@ -1,7 +1,8 @@
 ---
 title: ELIXIR Galaxy community kick-off meeting
 location: Freiburg, Germany
-site: freiburg
+site:
+ - freiburg
 supporters:
  - denbi
  - elixir

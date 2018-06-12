@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [training]
 title: Galaxy Workshop registration open!
 location: Freiburg, Germany

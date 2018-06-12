@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [training,hackathon]
 title: MetaboFlow meeting (training and hackathon)
 location: Birmingham, England

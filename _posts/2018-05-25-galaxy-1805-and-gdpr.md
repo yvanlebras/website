@@ -1,5 +1,6 @@
 ---
-site: freiburg
+site:
+ - freiburg
 tags: [release]
 title: UseGalaxy.eu update to 18.05 and GDPR
 ---
