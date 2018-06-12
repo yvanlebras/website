@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/academicons.min.css" | absolute_url }}"/>
   <link rel="stylesheet" href="{{ "/assets/css/carousel.css" | absolute_url }}">
 {% assign page_dir = page.dir | split:'/' %}
-{% assign key = page_dir[1] | default: page.site%}
+{% assign key = page_dir[1] %}
 {% assign key_length = key | size %}
 
   <link rel="stylesheet" href="{{ "/assets/css/eu.css" | absolute_url }}">

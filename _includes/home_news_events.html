@@ -1,5 +1,5 @@
 {% assign page_dir = page.dir | split:'/' %}
-{% assign key = page_dir[1] | default: page.site  %}
+{% assign key = page_dir[1] %}
 {% assign key_length = key | size %}
 
 <div class="row">
